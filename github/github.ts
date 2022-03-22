@@ -1,4 +1,4 @@
-const { Octokit, App } = require("octokit");
+import { Octokit, App } from "octokit";
 
 require('dotenv').config()
 
